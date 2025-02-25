@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enviatechnology.mobile_app",
+      "sha256_cert_fingerprints": [
+        "5B:D6:C4:CC:58:36:F1:4E:8C:F2:E8:D4:11:7D:17:6B:E3:98:20:D9:DF:07:36:25:EB:25:8B:4A:8E:38:93:EC"
+      ]
+    }
+  }
+]
